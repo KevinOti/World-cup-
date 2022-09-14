@@ -1,17 +1,20 @@
 # World-cup-
 World cup analysis
 
+![Screenshot (42)](https://user-images.githubusercontent.com/86672704/190094146-b0798bf4-c117-4c86-beab-7ac79b5f15f3.png)
+
+
     My passion for football goes all way and this led me to look through the world cup data for the years 1930 to 2014, 
     the desire being to learn some history regarding the competition in terms of:
-      the host nations
-      the participants, 
-      the scores and minor details as from the years how the score and ranking were like.
+      Host nations
+      Participants, 
+      Scores and minor details as from the years how the score and ranking were like.
 
 
 
 Between the years(1930-2014) below are some of the interesting findings.
 
-  The world has been held 21 times between 1930 and 2014 this excludes 2018 competition held in Russia
+  The world cup has been held 21 times between 1930 and 2014 this excludes 2018 competition held in Russia
 
   The competition has seen 15 different as host nations
 
