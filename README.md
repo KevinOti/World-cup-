@@ -34,3 +34,5 @@ The Count and CountA played a huge role in making the counts, with count if/rows
 
 
 Sumproduct is my favorite formula when it comes to filtering data, but one has to understand what they are filtering in order to get the desired results. 
+
+The data is from Tableau website
